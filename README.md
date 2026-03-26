@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Amine Ait El Mahjoub  
 
-🎓 Final-year **Bachelor’s student in Computer Science and Technology** (GPA: **3.51/4.0**)  
+🎓 Final-year **Bachelor’s student in Computer Science and Technology** (GPA: **3.59**)  
 💡 Passionate about **Software Development, Artificial Intelligence, and Data Science**  
 💻 Skilled in **Java, Python, C, SQL, React, Django, Flask, and MySQL**  
 🚀 Dedicated to transforming ideas into practical, intelligent, and impactful solutions  
